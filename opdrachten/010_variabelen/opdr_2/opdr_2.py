@@ -1,5 +1,5 @@
 # Opdracht 1
-# Naam student:
+# Naam student: Mees Post
 # Groep:
 
 # Hier komt je code...
