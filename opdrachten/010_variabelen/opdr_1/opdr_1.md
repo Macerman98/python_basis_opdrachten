@@ -15,7 +15,3 @@ Zorg ervoor dat de lijst wordt geprint.
 "wat een weertje"  
 12.5  
 8
-
-
-Test
-
