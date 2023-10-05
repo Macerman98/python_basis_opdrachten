@@ -7,7 +7,7 @@ b = "wat een weertje"
 c = 12.5  
 d = 8
 
-my_list = (a, b, c, d)
-for randomtekst in my_list:
+mijnlijst = (a, b, c, d)
+for randomtekst in mijnlijst:
     print(randomtekst)
     
