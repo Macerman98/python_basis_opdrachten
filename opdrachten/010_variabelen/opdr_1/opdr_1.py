@@ -10,3 +10,4 @@ d = 8
 my_list = (a, b, c, d)
 for randomtekst in my_list:
     print(randomtekst)
+    
