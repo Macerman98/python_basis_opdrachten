@@ -1,7 +1,12 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Mees Post:
+# Groep: 
 
-# Hier komt je code...
-Dit is een test
-my_list = ...
+a = 5
+b = "wat een weertje"  
+c = 12.5  
+d = 8
+
+my_list = (a, b, c, d)
+for randomtekst in my_list:
+    print(randomtekst)
