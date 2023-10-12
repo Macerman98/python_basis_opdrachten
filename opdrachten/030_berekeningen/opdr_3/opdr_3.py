@@ -1,16 +1,16 @@
 # Opdracht 3 tekstfuncties
-# Naam student:
+# Naam student: Mees Post
 # Groep:
 
 # Hier komt je code...
 x = 1
-y = ...
-print( ... )
+y = 4 * x**3 - 2 * x**2 - 1
+print("De uitkomst is:", y)
 
 x = 2
-y = ...
-print( ... )
+y = 4 * x**3 - 2 * x**2 - 1
+print("De uitkomst is:", y)
 
 x = 0
-y = ...
-print( ... )
+y = 4 * x**3 - 2 * x**2 - 1
+print("De uitkomst is:", y)
