@@ -12,7 +12,7 @@ Vrienden = (Jimmy, Thei, Luca)
 #optellen leeftijd
 opgetelde_leeftijd = sum(Vrienden)
 #gemiddelde leeftijd
-Gemiddelde_leeftijd = opgetelde_leeftijd / 3
+Gemiddelde_leeftijd = round(opgetelde_leeftijd / 3, 2)
 
 print("Dit weten we over joe, bob en fred:")  
 print("De totale waarde van alle leeftijden bij elkaar opgeteld =", opgetelde_leeftijd)
