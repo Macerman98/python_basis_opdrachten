@@ -21,7 +21,6 @@ rivier_info = {
 rivieren = list(rivier_info.keys())
 # rivieren is nu een list met alleen de riviernamen: ['rijn', 'maas', 'nijl']
 
-```
 
 Print de naam van de 1e rivier  
 Print het 2e land waar de 1e rivier doorheen stroomt

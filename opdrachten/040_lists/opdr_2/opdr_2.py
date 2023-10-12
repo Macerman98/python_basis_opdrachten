@@ -1,5 +1,5 @@
 # Opdracht 2 lists
-# Naam student:
+# Naam student: Mees Post
 # Groep:
 
 
@@ -12,4 +12,4 @@ rivier_info = {
 rivieren = list(rivier_info.keys())
 # rivieren is nu een list met alleen de riviernamen: ['rijn', 'maas', 'nijl']
 
-# Hier jouw code.....
+print(rivieren[0], ["duitsland"])
