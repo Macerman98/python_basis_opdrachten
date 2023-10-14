@@ -1,5 +1,5 @@
 # Opdracht 2 berekeningen
-# Naam student:
+# Naam student: Mees Post
 # Groep:
 
 # Hier komt je code...
