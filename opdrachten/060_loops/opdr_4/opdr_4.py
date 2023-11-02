@@ -6,4 +6,5 @@
 
 # Hier start de for-loop
 
-my_list = []
+formule = [y = 4x + 7 for y in range(1, 10)]
+print(formule)
