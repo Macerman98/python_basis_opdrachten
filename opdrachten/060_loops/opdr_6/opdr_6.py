@@ -18,12 +18,18 @@ sorted_pizza.append("zalm")
 print(sorted_pizza)
 print("\n")
 
+#verwijderen pizza
 del sorted_pizza[3]
 print(sorted_pizza)
 print("\n")
 
 #printen eerste drie pizza's
 print(sorted_pizza[0:3])
+print("\n")
 
+#middelste pizza
 gemiddelde = len(sorted_pizza) // 2
-print(gemiddelde)
+print(sorted_pizza[gemiddelde])
+print("\n")
+
+print(sorted_pizza[-3:])
