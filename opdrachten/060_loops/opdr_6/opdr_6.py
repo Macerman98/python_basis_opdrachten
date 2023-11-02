@@ -6,4 +6,8 @@
 
 # Hier start de for-loop
 
-my_list = []
+pizzas = ['margharita', 'calzone', 'verdi', 'olivio', 'quattro stagioni']
+
+#sorteren van de pizza's
+sorteren = sorted(pizzas)
+print(sorteren)
