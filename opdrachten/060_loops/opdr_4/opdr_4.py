@@ -6,5 +6,5 @@
 
 # Hier start de for-loop
 
-formule = [y = 4x + 7 for y in range(1, 10)]
+formule = [4 + 7 for y in range(1, 10)]
 print(formule)
