@@ -4,11 +4,6 @@
 
 
 #Hier komt je code
-
-# opdr_3.py
-
-# opdr_3.py
-
 def encrypteer(tekst):
     versleutelde_tekst = ""
     for karakter in tekst:
